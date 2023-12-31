@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: descriptionHider
+  title: Description Hider
+  author: Obvious
+  description: 'With the rise of mission settings, some mission descriptions have
+    become a little less attractive. With this utility mod, mission makers can now
+    hide these mission settings and other things from the player (if they have this
+    mod installed).
+
+    - Use <hidden> to hide that line and all text after.
+
+    - Use <hiddensingle> to hide that line and the line following it.'
+  version: 1.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: d3d78eb97b2e2a746b3f660fd5c670e0, type: 3}
